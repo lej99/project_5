@@ -8,7 +8,7 @@
 ---
 작업물 - https://lej99.github.io/project_5/
 
-코드 - https://gist.github.com/lej99/6a99162ab01c528fb2ee88b7fc710d67.js
+코드 - https://gist.github.com/lej99/6a99162ab01c528fb2ee88b7fc710d67
 
 포트폴리오 - [문서화](https://www.canva.com/design/DAFdO2v4nmg/I9TYFqdVaEcbIGnaQakOAw/view?utm_content=DAFdO2v4nmg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
